@@ -1,5 +1,5 @@
 # AdobePremierePro-zh_TW
-這是一個為 Adobe Premiere Pro 繁體化的翻譯檔，有很多部分是從簡體中文翻譯過來的，若有語意上
+這是一個為 Adobe Premiere Pro 繁體中文化的翻譯檔，有很多部分是從簡體中文翻譯過來的，若有語意上
 ## 如何使用此檔案
 - 先將本專案檔案下載
 - 將 `zh_TW` 資料夾裡的檔案複製到 `Adobe Premiere Pro CC 2015\Dictionaries\zh_TW` 裡面
